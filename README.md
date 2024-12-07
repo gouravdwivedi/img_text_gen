@@ -12,4 +12,5 @@ Test Project to convert image to text
 10. check if environment is empty $ pip list
 11. Install the required packages $ pip3 install -r requirements.txt
 11. run the app with command $ streamlit run app.py --server.port 8502
+12. 
 
